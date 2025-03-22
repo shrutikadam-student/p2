@@ -3,3 +3,4 @@ Line 2: Added by teammate
 Line 2: Feature in progress
 Line 1: Added feature part 1
 Line 2: Added feature part 2
+Line 3: Added feature part 3
