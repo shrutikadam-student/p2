@@ -1,3 +1,4 @@
 Line 1: Initial content
 Line 2: Added by teammate
 Bug fixed in main
+Line 4: Buggy feature
